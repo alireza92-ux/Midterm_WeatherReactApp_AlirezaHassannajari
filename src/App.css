@@ -1,0 +1,20 @@
+h1 { 
+  color: white;
+  margin: 1.5rem;
+  padding: 1.5rem;
+}
+
+.card {
+  background: rgba(33, 35, 73, 0.95);
+  color: white;
+  padding: 2em;
+  border-radius: 30px;
+  width: 60vw;
+  margin: auto;
+  margin-top: 1.5rem;
+}
+
+h1.temp {
+  margin: 0;
+  margin-bottom: 0.4em;
+}

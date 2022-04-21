@@ -1,0 +1,33 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.search-bar {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    background: #7c7c7c2b;
+    color: white;
+    width: 80%;
+}
+
+.search-btn {
+    margin: 0 0.5rem;
+    max-width: 60px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background: #bebebe2b;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+  
+button:hover {
+    background: #7c7c7c6b;
+}
